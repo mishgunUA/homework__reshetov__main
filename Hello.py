@@ -1,4 +1,4 @@
-#Say hello to user
+# Say hello to user
 
 def hello(name):
     print("Hello "+name)
